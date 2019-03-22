@@ -12,7 +12,7 @@
 ---
 ## File upload example
 
-- YYYY-MM-DD-<File name>.extension
+- YYYY-MM-DD-**File name**.extension
 ---
 ## Contact
 
