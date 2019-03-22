@@ -3,7 +3,7 @@
 ---
 ## File upload example
 
-- YYYY-MM-DD-"File name".playground
+- YYYY-MM-DD-"File name".extension
 ---
 ## About
 
