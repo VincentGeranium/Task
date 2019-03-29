@@ -2,7 +2,7 @@
 - iOS assignment Repo
 ---
 ## About
-- 2019-03-11-assignment.playground -> **About Function**
+-[190311 assignment](./2019-03-11-assignment.playground), 2019-03-11-assignment.playground -> **About Function**
 - 2019-03-19-assignment.playground -> **About Property, Method and Class**
 - 2019-03-21-assignment.playground -> **About Inheritance and Class**
 - 2019-03-22-SegmentedControl-assignment -> **About Segmented Control**
